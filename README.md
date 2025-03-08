@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **arnavsharm589@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CWGvOAbM4VWbE0H2jMG-LuRgyXHEq3rF/view?usp=sharing](https://drive.google.com/file/d/1CWGvOAbM4VWbE0H2jMG-LuRgyXHEq3rF/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1CWGvOAbM4VWbE0H2jMG-LuRgyXHEq3rF/view?usp=sharing](https://drive.google.com/file/d/1uw8k8QYfEATGNkCFh8GRt7UIUzKpPe5v/view?usp=drive_link)](https://drive.google.com/file/d/1CWGvOAbM4VWbE0H2jMG-LuRgyXHEq3rF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
