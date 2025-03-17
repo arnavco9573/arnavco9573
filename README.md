@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js /TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://arnav-port.netlify.app/](https://arnav-port.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://arnav-port.netlify.app/](https://portfolio-one-dusky-76.vercel.app/)]
 
 - 📫 How to reach me **arnavsharm589@gmail.com**
 
