@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Arnav Sharma</h1>
 <h3 align="center">Full stack Developer</h3>
 
+![](https://komarev.com/ghpvc/?username=arnavco9573&abbreviated=true)
+
 - 🔭 I’m currently working in **-**
 
 - 🌱 I’m currently learning **Next.js /TypeScript**
