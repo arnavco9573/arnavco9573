@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Sharma</h1>
 <h3 align="center">Full stack Developer</h3>
 
-![](https://komarev.com/ghpvc/?username=arnavco9573&abbreviated=true)
+![Visitor Count](https://profile-counter.glitch.me/arnavco9573/count.svg)
 
 - 🔭 I’m currently working in **-**
 
